@@ -2,11 +2,22 @@
 
 ### Java Full stack Developer | Spring Boot | REST APIs | Microservices | Spring Security | React | MySQL
 
-I am a B.Tech Computer Science & Engineering graduate with hands-on
-experience in Java full stack development.
+🎓 B.Tech Computer Science & Engineering Graduate   
+🚀 Interested in building scalable backend applications and microservices  
+📍 Maharashtra, India
 
-I enjoy building backend applications using Java, Spring Boot,
-Spring Security, Hibernate, JPA, MySQL and REST APIs.
+## 👨‍💻 About Me
+
+I am a Computer Science & Engineering graduate with hands-on experience
+in Java backend development and full-stack application development.
+
+I have worked with Java, Spring Boot, Spring Framework, Hibernate, JPA,
+MySQL and REST APIs, along with Spring Security and JWT-based
+authentication.
+
+I enjoy designing backend services, developing RESTful APIs,
+working with relational databases, and learning distributed
+microservices architectures.
 
 ## 🛠️ Technical Skills
 
