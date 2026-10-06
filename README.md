@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Mhatukade
 
-<!--
-**shubhamhatukade/shubhamhatukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full stack Developer | Spring Boot | REST APIs | Microservices | Spring Security | React | MySQL
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science & Engineering graduate with hands-on
+experience in Java full stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend applications using Java, Spring Boot,
+Spring Security, Hibernate, JPA, MySQL and REST APIs.
+
+## 🛠️ Technical Skills
+
+### Backend
+- Java
+- Spring
+- Spring Boot
+- Spring Security
+- REST APIs
+- Hibernate
+- JPA
+- JWT
+- Microservices
+
+### Database
+- MySQL
+- SQL
+
+### Frontend
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Postman
+- Eclipse
+- IntelliJ IDEA
+- VS Code
+
+## 🚀 Featured Projects
+
+### 🏦 Banking Microservices Application
+
+Microservices-based banking application built using Spring Boot,
+Spring Security, JWT, Eureka Service Discovery, API Gateway,
+Hibernate and MySQL.
+
+### 🏫 School Funds Management System
+
+Web-based application for managing school expense reports with
+role-based access for Program Officers and Clerks.
+
+### 📚 Spring Boot Book CRUD API
+
+REST API for managing books using Spring Boot, Spring Data JPA,
+Hibernate and MySQL.
+
+## 📚 Currently Learning
+
+- Advanced Spring Boot
+- Microservices
+- Spring Security & JWT
+- Docker
+- CI/CD
+- System Design
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/shubham-mhatukade/
+- GitHub: https://github.com/shubhamhatukade
